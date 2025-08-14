@@ -1,0 +1,58 @@
+{
+  "products": {
+    "fortnite-private": {
+      "name": "Fortnite Private",
+      "status": "Under Development",
+      "color": "red",
+      "lastUpdated": 1755158190317
+    },
+    "free-spoofer": {
+      "name": "Free Spoofer",
+      "status": "operational",
+      "color": "green",
+      "lastUpdated": 1755156150805
+    },
+    "paid-spoofer": {
+      "name": "Paid Spoofer",
+      "status": "operational",
+      "color": "green",
+      "lastUpdated": 1755156150805
+    },
+    "free-cs2": {
+      "name": "Free CS2",
+      "status": "operational",
+      "color": "green",
+      "lastUpdated": 1755156150805
+    },
+    "paid-cs2": {
+      "name": "Paid CS2",
+      "status": "operational",
+      "color": "green",
+      "lastUpdated": 1755156150805
+    },
+    "discord-bot": {
+      "name": "Discord Bot",
+      "status": "operational",
+      "color": "green",
+      "lastUpdated": 1755156150805
+    },
+    "downloads": {
+      "name": "Downloads",
+      "status": "operational",
+      "color": "green",
+      "lastUpdated": 1755156150805
+    },
+    "cdn": {
+      "name": "CDN",
+      "status": "operational",
+      "color": "green",
+      "lastUpdated": 1755156150805
+    },
+    "route": {
+      "name": "Route",
+      "status": "operational",
+      "color": "green",
+      "lastUpdated": 1755156150805
+    }
+  }
+}
